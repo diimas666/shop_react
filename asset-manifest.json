@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shop_react/static/css/main.aa020f7e.css",
+    "main.js": "/shop_react/static/js/main.8dc85a1b.js",
+    "static/media/promo.png": "/shop_react/static/media/promo.590b19fb1baa740ef805.png",
+    "static/media/promo-img.jpg": "/shop_react/static/media/promo-img.1bcf0106ea69eb6f15e9.jpg",
+    "static/media/5.jpg": "/shop_react/static/media/5.6ae527675fdb0ca56c7a.jpg",
+    "static/media/vouchers-img.png": "/shop_react/static/media/vouchers-img.d9dbd2bab4f38c115bd6.png",
+    "static/media/03.jpg": "/shop_react/static/media/03.385c38267ff6e41daad7.jpg",
+    "static/media/01.jpg": "/shop_react/static/media/01.4a3fec8151f36af3ebbb.jpg",
+    "static/media/4.jpg": "/shop_react/static/media/4.f5c1701d44770d0c1ece.jpg",
+    "static/media/02.jpg": "/shop_react/static/media/02.b46418cb3b01bca92db9.jpg",
+    "static/media/Amazon.png": "/shop_react/static/media/Amazon.8147eaff712ddbb636a0.png",
+    "static/media/Shopify.png": "/shop_react/static/media/Shopify.bf70fa9caf43cad1e916.png",
+    "static/media/logo.svg": "/shop_react/static/media/logo.a72662540a0c8c51b0417ab80463d16e.svg",
+    "static/media/tw.svg": "/shop_react/static/media/tw.28bd6c068f25e4ae67cd362b1da1f8d2.svg",
+    "index.html": "/shop_react/index.html",
+    "static/media/in.svg": "/shop_react/static/media/in.e36441e360ccd4bc3466cb67982a374d.svg",
+    "static/media/arrowImg.svg": "/shop_react/static/media/arrowImg.9d4f9d5e31a0e0b90396898109d19746.svg",
+    "static/media/fb.svg": "/shop_react/static/media/fb.4faf19d0bfe6a510d553b2e4528e5bf8.svg",
+    "static/media/promo_vector.svg": "/shop_react/static/media/promo_vector.1cde02ab1a06cdaddfa4.svg",
+    "main.aa020f7e.css.map": "/shop_react/static/css/main.aa020f7e.css.map",
+    "main.8dc85a1b.js.map": "/shop_react/static/js/main.8dc85a1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa020f7e.css",
+    "static/js/main.8dc85a1b.js"
+  ]
+}

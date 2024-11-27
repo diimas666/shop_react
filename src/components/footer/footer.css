@@ -1,0 +1,33 @@
+.footer{
+    padding: 119px 100px;
+    background-color: black;
+}
+.footer__wrapper {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 80px;
+    align-items: baseline;
+}
+.left__title {
+    font-size: 40px;
+    font-weight: 800;
+    color: #fff;
+    margin-bottom: 32px;    
+}
+.left__desc,
+.footer__links {
+    color:#8E8E8E;
+    max-width: 415px;
+    font-size: 20px;
+    font-weight: 200;
+    margin-bottom: 32px; 
+}
+.left__social {
+    display: flex;
+    column-gap: 30px;
+}
+.footer__links {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}

@@ -1,0 +1,12 @@
+.favorite{
+    margin-bottom: 120px;
+}
+.favorite__title {
+    margin-bottom: 118px;
+    text-transform: unset;
+}
+.favorite__cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}

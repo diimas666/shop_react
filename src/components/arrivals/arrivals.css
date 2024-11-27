@@ -1,0 +1,18 @@
+.arrivals {
+    padding-top: 120px;
+    padding-bottom: 143px;
+}
+.arrivals__title {
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 48px;
+  letter-spacing: -0.05em;
+  margin-bottom: 100px;
+  text-transform: uppercase;
+}
+
+.arrivals__cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}

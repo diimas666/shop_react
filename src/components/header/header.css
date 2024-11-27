@@ -1,0 +1,32 @@
+.header {
+  padding-top: 46px;
+  padding-bottom: 56px;
+}
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul.links {
+    display: flex;
+    column-gap: 40px;
+    font-size: 22px;
+    font-weight: 500;
+    align-items: center;
+    text-transform: uppercase;
+}
+a.btn-black {
+    padding: 13px 22px;
+    background-color: var(--black);
+    color: white;
+    font-size: 24px;
+    border-radius: 6px;
+}
+a.btn-black:hover {
+    background-color: rgb(48, 37, 37);
+}
+
+ul.links li:hover {
+    color: rgb(234, 197, 152);
+}

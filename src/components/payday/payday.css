@@ -1,0 +1,26 @@
+.payday{
+    margin-bottom: 190px;
+}
+.payday__wrapper{
+    display: flex;
+    justify-content: space-between;
+    /* column-gap: 30px; */
+
+}
+
+.payday__block {
+    padding: 128px 62px 0 ;
+    background-color: #E6C744;
+    
+}
+.payday__h4 {
+    max-width: 594px;
+}
+.payday__desc {
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.payday__bottom-text    {
+    font-size: 28px;
+    margin-bottom: 40px;
+}

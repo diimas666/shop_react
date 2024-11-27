@@ -1,0 +1,48 @@
+.contact {
+    padding: 141px 0 151px 0;
+    background-color: #E5C643;
+    text-align: center;
+}
+.contact__title {
+    font-size: 55px;
+    letter-spacing: 3%;
+    max-width: 996px;
+    margin: 0 auto;
+    color: #ffff;
+    margin-bottom: 37px;
+    font-weight: 900;
+}
+.contact__desc {
+    font-size: 34px;
+    font-weight: 200;
+    letter-spacing: 3%;
+    margin-bottom: 49px;
+}
+.contact__input{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    max-width: 574px;
+    margin: 0 auto;
+    color: #ffff;
+}
+.contact__input input {
+    padding: 13px 22px;
+    width: 100%;
+    height: 87px; 
+    border-radius: 10px;
+    border: none;
+}
+
+.contact__btn {
+    position: absolute;
+    padding: 17px 38px;
+    right: 1rem;
+    top: 1.5rem;
+    
+}
+.contact__input input::placeholder{
+    color: #767676;
+    font-size: 24px;
+
+}
